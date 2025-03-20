@@ -3,7 +3,10 @@
 The objective of this project is to analyze procurement and GST-related data using Excel to generate meaningful insights, track key performance indicators (KPIs), and build an interactive dashboard that supports strategic decision-making, improves tax compliance, and enhances operational efficiency.
 
 # Dataset Used
-- <a href= "https://github.com/Tejasssss06/Business-Purchase-and-GST-Analysis-Dashboard/blob/main/Business_Purchase_GST_Analysis.xlsx">Dataset</a>
+- <a href= "https://github.com/Tejasssss06/Business-Purchase-and-GST-Analysis-Dashboard/blob/main/Business_Purchase_GST_Analysis.xlsx">Final Analysis</a>
+
+# Business Purchase and GST Analysis Dashboard Creation
+- <a href= "https://github.com/Tejasssss06/Business-Purchase-and-GST-Analysis-Dashboard/blob/main/Dataset.XLSX">Dataset</a>
 
 # KPI Questions
 1.	Which suppliers contribute the highest percentage to the total purchase value? 
