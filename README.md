@@ -1,2 +1,3 @@
-# Business-Purchase-and-GST-Analysis-Dashboard
-I have developed an Excel-based business analysis dashboard to visualize procurement trends, supplier performance, and GST reporting for improved decision-making.
+# Business Purchase and GST Analysis Dashboard (Using MS Excel)
+# Project Objective
+The objective of this project is to analyze procurement and GST-related data using Excel to generate meaningful insights, track key performance indicators (KPIs), and build an interactive dashboard that supports strategic decision-making, improves tax compliance, and enhances operational efficiency.
